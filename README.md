@@ -1,5 +1,5 @@
 # DatabaseCompare
-Database Compare using LDAP and SQL: (idea from my job at IT)
+Database Compare using LDAP and SQL: (idea from my job at IT) Summer 2017
 
 Description: 
 - This project was created with PHP, SQL, and LDAP functions.

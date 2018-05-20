@@ -115,7 +115,7 @@
 
         private function CompareArrays()
         {
-            for($count = 0; $count < sizeof($this->LDAPelements); $counts++)
+            for($count = 0; $count < sizeof($this->LDAPelements); $count++)
             {
                 if(in_array($this->LDAPelements[$count], $this->SQLelements))
                 {
